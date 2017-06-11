@@ -1,0 +1,2 @@
+UNCLASSIFIED = None
+NOISE = -1
