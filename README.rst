@@ -17,6 +17,12 @@ that lie alone in low-density regions (whose nearest neighbors are too far away)
 DBSCAN is one of the most common clustering algorithms and also most cited in scientific literature.[2]
 
 
+Instalation
+===========
+
+pip install git+https://github.com/orehush/dbscan@v0.0.1
+
+
 Simple usage
 ============
 

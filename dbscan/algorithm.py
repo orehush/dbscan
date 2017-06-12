@@ -18,6 +18,7 @@ class DBSCAN(object):
 
         :param eps - Maximum distance two points can be to be regionally related
         :param min_points - The minimum number of points to make a cluster
+        :param distance - 'euclidean' or 'manhattan' or callable
 
         """
         self.eps = eps
