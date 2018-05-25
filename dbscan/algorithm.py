@@ -4,7 +4,7 @@ import numpy as np
 
 from .const import UNCLASSIFIED, NOISE
 
-__all_ = ('DBSCAN', )
+__all__ = ('DBSCAN', )
 
 
 class DBSCAN(object):
